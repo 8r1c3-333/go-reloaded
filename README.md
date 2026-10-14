@@ -26,7 +26,7 @@ Il lit un fichier d'entrée, applique des règles de correction, puis écrit le 
 ## Récupérer le projet
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone https://github.com/8r1c3-333/go-reloaded.git
 cd go-reloaded
 ```
 
